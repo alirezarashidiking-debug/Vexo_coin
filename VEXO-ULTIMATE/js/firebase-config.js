@@ -1,2 +1,0 @@
-// Firebase web configuration for project vexo-v2. Web API keys are public identifiers; secure access with Authentication and Database Rules.
-export const firebaseConfig={apiKey:'AIzaSyAScL8FLPlYhUJy0Zmd63Q43Pdsz8Hf29o',authDomain:'vexo-v2.firebaseapp.com',databaseURL:'https://vexo-v2-default-rtdb.firebaseio.com',projectId:'vexo-v2',storageBucket:'vexo-v2.firebasestorage.app',messagingSenderId:'838839615203',appId:'1:838839615203:web:84656ae8123749c9258fd6'};
